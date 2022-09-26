@@ -15,7 +15,7 @@
       (2022. 03. 03 ~ 2022. 08. 01 | 782시간) <br>
       코리아IT아카데미
 - 보유 기술:
-> JAVA 8 / JSP / Spring Boot / Oracle DB / JS / HTML / CSS
+> JAVA 8 / JSP / Spring Boot / Oracle SQL / JavaScript / JQuery / HTML / CSS
 
 </br>
 
