@@ -32,7 +32,7 @@
 >개발 기간: 2022.05.17 ~ 2022.07.01  
 >  
 >기술 스택:  
->Java 8 / JSP / Oracle DB / open API / Tomcat Server  
+>Java 8 / JSP / Oracle DB / open API  
 >HTML / CSS / JS / Bootstrap
 > 
 >담당 파트:  
