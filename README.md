@@ -21,6 +21,7 @@
 
 ## :pushpin: Contact
 - 이메일: jack_paper@naver.com
+- E-Mail : whitejack.paper28@gmail.com
 - 블로그: https://velog.io/@jack_whiteblack
 - 깃헙: https://github.com/JONGHWI-PARK
 
