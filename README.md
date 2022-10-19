@@ -59,7 +59,7 @@
 >   - DB에서 데이터를 가져와 size()를 활용하여 정기권 수량 조회 구현  
 >   - 정규표현식을 사용하여 회원 정보의 유효성검사 진행 
 > 
->[프로젝트 상세 설명](https://github.com/JONGHWI-PARK/Team-Project_PARKING) 참고
+>[프로젝트 상세 설명](https://github.com/JONGHWI-PARK/team-project_Parking-System) 참고
 
 ---
 
@@ -86,4 +86,4 @@
 >기술 스택:  
 >Java 8   
 >  
->[프로젝트 상세 설명](https://github.com/JONGHWI-PARK/Personal-Project_AI-Jack) 참고
+>[프로젝트 상세 설명](https://github.com/JONGHWI-PARK/toy-project_AI-JACK) 참고
