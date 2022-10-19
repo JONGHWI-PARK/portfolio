@@ -44,7 +44,7 @@
 >   - 마이페이지 프론트단 구현  
 > - 프로젝트 발표  
 >
->[프로젝트 상세 설명](https://github.com/JONGHWI-PARK/Team-Project_Travel-Planner_Happy-Ever) 참고
+>[프로젝트 상세 설명](https://github.com/JONGHWI-PARK/team-project_HappyEver-Travel-Planner) 참고
 
 ---
 
