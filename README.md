@@ -45,31 +45,3 @@
 > - 프로젝트 발표  
 >
 >[프로젝트 상세 설명](https://github.com/JONGHWI-PARK/team-project_HappyEver-Travel-Planner) 참고
-
----
-
-### 2. [주차장 관리 프로그램]
->Toy Project  (팀 프로젝트)  
->개발 기간: 2022.05.12 ~ 2022.06.05  
->  
->기술 스택:  
->Java 8 / Oracle DB
->
->담당 파트:
->- 정기권 (CommutationTicket Class)
->   - 회원 정보를 입력받으면 DB CommutationTicket 테이블에 데이터가 저장되도록 구현
->   - DB에서 데이터를 가져와 size()를 활용하여 정기권 수량 조회 구현  
->   - 정규표현식을 사용하여 회원 정보의 유효성검사 진행 
-> 
->[프로젝트 상세 설명](https://github.com/JONGHWI-PARK/team-project_Parking-System) 참고
-
----
-
-### 3. [음식 추천 AI Jack]
->기분과 먹고 싶은 음식에 따라 음식을 추천해주는 AI  (개인 프로젝트)  
->개발 기간: 2022.03.23 ~ 2022.04.05
->  
->기술 스택:  
->Java 8   
->  
->[프로젝트 상세 설명](https://github.com/JONGHWI-PARK/toy-project_AI-JACK) 참고
